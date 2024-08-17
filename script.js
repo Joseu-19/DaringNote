@@ -24,7 +24,7 @@ noBtn.addEventListener('mouseenter', ()=>{
 });
 
 noBtn.addEventListener('click', ()=>{
-    move();
+    noBtn.style.display = 'none';
 });
 
 yesBtn.addEventListener('click', ()=>{
