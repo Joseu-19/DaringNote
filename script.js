@@ -27,7 +27,7 @@ yesBtn.addEventListener('click', ()=>{
 
     text.textContent = 'yayyyy ';
     noBtn.style.display = 'none';
-    avatar.src = './images/happy.webp';
+    avatar.src = './happy.webp';
 
 
 });
