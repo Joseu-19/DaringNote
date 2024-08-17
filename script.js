@@ -23,6 +23,10 @@ noBtn.addEventListener('mouseenter', ()=>{
     move();
 });
 
+noBtn.addEventListener('click', ()=>{
+    move();
+});
+
 yesBtn.addEventListener('click', ()=>{
 
     text.textContent = 'yayyyy ';
